@@ -1,0 +1,7 @@
+C:\Users\1311964\source\repos\ConsoleApp4_3\ConsoleApp4_3\bin\Debug\ConsoleApp4_3.exe.config
+C:\Users\1311964\source\repos\ConsoleApp4_3\ConsoleApp4_3\bin\Debug\ConsoleApp4_3.exe
+C:\Users\1311964\source\repos\ConsoleApp4_3\ConsoleApp4_3\bin\Debug\ConsoleApp4_3.pdb
+C:\Users\1311964\source\repos\ConsoleApp4_3\ConsoleApp4_3\obj\Debug\ConsoleApp4_3.csprojAssemblyReference.cache
+C:\Users\1311964\source\repos\ConsoleApp4_3\ConsoleApp4_3\obj\Debug\ConsoleApp4_3.csproj.CoreCompileInputs.cache
+C:\Users\1311964\source\repos\ConsoleApp4_3\ConsoleApp4_3\obj\Debug\ConsoleApp4_3.exe
+C:\Users\1311964\source\repos\ConsoleApp4_3\ConsoleApp4_3\obj\Debug\ConsoleApp4_3.pdb

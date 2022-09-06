@@ -1,0 +1,15 @@
+C:\Users\1311964\source\repos\ConsoleApp4_1\ConsoleApp4_1\bin\Debug\ConsoleApp4_1.exe.config
+C:\Users\1311964\source\repos\ConsoleApp4_1\ConsoleApp4_1\bin\Debug\ConsoleApp4_1.exe
+C:\Users\1311964\source\repos\ConsoleApp4_1\ConsoleApp4_1\bin\Debug\ConsoleApp4_1.pdb
+C:\Users\1311964\source\repos\ConsoleApp4_1\ConsoleApp4_1\obj\Debug\ConsoleApp4_1.csprojAssemblyReference.cache
+C:\Users\1311964\source\repos\ConsoleApp4_1\ConsoleApp4_1\obj\Debug\ConsoleApp4_1.csproj.CoreCompileInputs.cache
+C:\Users\1311964\source\repos\ConsoleApp4_1\ConsoleApp4_1\obj\Debug\ConsoleApp4_1.exe
+C:\Users\1311964\source\repos\ConsoleApp4_1\ConsoleApp4_1\obj\Debug\ConsoleApp4_1.pdb
+C:\Users\ekado\source\repos\ConsoleApp4\ConsoleApp4_1\bin\Debug\ConsoleApp4_1.exe.config
+C:\Users\ekado\source\repos\ConsoleApp4\ConsoleApp4_1\bin\Debug\ConsoleApp4_1.exe
+C:\Users\ekado\source\repos\ConsoleApp4\ConsoleApp4_1\bin\Debug\ConsoleApp4_1.pdb
+C:\Users\ekado\source\repos\ConsoleApp4\ConsoleApp4_1\obj\Debug\ConsoleApp4_1.csproj.AssemblyReference.cache
+C:\Users\ekado\source\repos\ConsoleApp4\ConsoleApp4_1\obj\Debug\ConsoleApp4_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekado\source\repos\ConsoleApp4\ConsoleApp4_1\obj\Debug\ConsoleApp4_1.csproj.CoreCompileInputs.cache
+C:\Users\ekado\source\repos\ConsoleApp4\ConsoleApp4_1\obj\Debug\ConsoleApp4_1.exe
+C:\Users\ekado\source\repos\ConsoleApp4\ConsoleApp4_1\obj\Debug\ConsoleApp4_1.pdb
